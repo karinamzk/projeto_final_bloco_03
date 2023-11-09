@@ -7,7 +7,7 @@ function Navbar() {
                 flex justify-center py-4'>
             
                 <div className="container flex justify-between text-lg">
-                <Link to='/home' className='hover:underline'>Farmácia -  Sempre ao seu lado</Link>
+                <Link to='/home' className='hover:underline'>Farmácia -  Sempre ao seu lado </Link>
                     <div className='flex gap-4'>
                         Produtos
                         <Link to='/categorias' className='hover:underline'>Categorias</Link>
